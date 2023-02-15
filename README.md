@@ -1,4 +1,4 @@
-# **Todo-App using ReactJS ( useState )** 
+# **Todo-App using ReactJS ( useState )* & Tailwindcss* 
 
 [Ver demo ->](https://lighthearted-fenglisu-58fed5.netlify.app/)
 
